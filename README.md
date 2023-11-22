@@ -3,6 +3,9 @@ This is a simple network scan implemented using Python language
 
 This scan only return the ports and the active hosts in a network
 
+# Scientific Paper
+Click [Here](ArtigoScannerRedePython.pdf) to see the paper about this project
+
 # Usage
 ```# python2.7 < HostIP > < Subnet/sub >```
 * This script require **root** privilege to run
