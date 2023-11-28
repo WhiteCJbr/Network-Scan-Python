@@ -6,7 +6,7 @@
 </div>
 <h4 align="center">This is a simple network scan implemented using Python language</h4>
 
-<h4 align="center">This scan only return the ports and the active hosts in a network</h4>
+<h4 align="center">This scan only returns the ports and the active hosts in a network</h4>
 
 # Scientific Paper
 Click [Here](ArtigoScannerRedePython.pdf) to see the paper about this project
